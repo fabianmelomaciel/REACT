@@ -6,35 +6,35 @@
 
 ### Console / Terminal
 
-'''sh
+```sh
 npm install -g create-react-native-app
-'''
+```
 
 3- Crea el Proyecto con el nombre
 
 
 ### Console / Terminal
 
-'''sh
+```sh
 create-react-native-app nombre-app
-'''
+```
 
 
 4- Ingresa al Directorio
 
 ### Console / Terminal
 
-'''sh
+```sh
 cd nombre-app
-'''
+```
 
 5- Lanzar Proyecto 
 
 ### Console / Terminal
 
-'''sh
+```sh
 npm start
-'''
+```
 
 6- Lanzar Aplicacion en Simulador IOS / ANDROID
 
@@ -42,12 +42,12 @@ npm start
 
 IOS
 
-'''sh
+```sh
 npm run ios
-'''
+```
 
 ANDROID
 
-'''sh
+```sh
 npm run android
-'''
+```

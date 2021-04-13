@@ -1,4 +1,4 @@
-### Crear proyecto React
+### Crear proyecto ReactJS
 
 1- Antes de crear proyecto debes instalar node.
 

@@ -318,7 +318,7 @@ cd ios
 pod install
 ```
 
-- Error RNCSafeAreaProvider Ir a 00- Solucion Errores
+- Error RNCSafeAreaProvider Ir a [00 - Solucion Errores](https://github.com/fabianmelomaciel/REACT/blob/main/00-%20Solucion%20Errores/0-1%20Error%20RNCSafeAreaProvider/documento.md)
 
 - Visualizar en el simulador IOS
 

@@ -10,7 +10,7 @@ Bitácora React Native en apoyo a la comunidad Developers.
 
 - [02 - Login Registro](https://github.com/fabianmelomaciel/REACT/tree/main/02-%20Login%20Registro)
 
--    [2-1 - Ejemplo Login Register](https://github.com/fabianmelomaciel/REACT/blob/main/02-%20Login%20Registro/2.2%20Plantilla%20Login%20Register/documento.md)
+-    [2-1 - Ejemplo Login Register](https://github.com/fabianmelomaciel/REACT/tree/main/02-%20Login%20Registro/2-1%20Ejemplo%20Login%20Register)
 -    [2-2 - Plantilla Login Registro](https://github.com/fabianmelomaciel/REACT/blob/main/02-%20Login%20Registro/2.2%20Plantilla%20Login%20Register/documento.md)
 
 

@@ -90,3 +90,7 @@ const App = () => {
 ```
 - Ejecutando en el simulador ios se podra contemplar el splash con el logo
 
+- Todo se encuentra dentro del ejemplo 
+
+- [2-1 - Ejemplo Login Register](https://github.com/fabianmelomaciel/REACT/tree/main/02-%20Login%20Registro/2-1%20Ejemplo%20Login%20Register)
+

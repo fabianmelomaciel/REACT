@@ -6,16 +6,17 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 
 // Importamos los Screen
+import SplashScreen from './app/screen/SplashScreen';
 import LoginScreen from './app/screen/LoginScreen';
 import RegisterScreen from './app/screen/RegisterScreen';
 
 // Creamos la constante Stack 
 const Stack = createStackNavigator();
 
-// Crearemos la Ath que utilizaremos en el futuro
+// Crearemos la Ath que utilizaremos en el futuro 
 const Auth = () => {
   //Stack Navigator para Login y Register
-  return (
+  return ( 
       <Stack.Navigator initialRouteName="LoginScreen">
       <Stack.Screen
         name="LoginScreen"
@@ -47,6 +48,15 @@ const App = () => {
     <NavigationContainer>
          
       <Stack.Navigator>
+
+        {/* SplashScreen con time 5 segundos */}
+        <Stack.Screen
+          name="SplashScreen"
+          component={SplashScreen}
+          // Hiding header para Splash Screen
+          options={{headerShown: false}}
+        />
+
         {/* Auth Navigator: Incluye LoginScreen y RegisterScreen */}
         <Stack.Screen
           name="Auth"

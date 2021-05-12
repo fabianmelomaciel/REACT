@@ -15,6 +15,8 @@ Bitácora React Native en apoyo a la comunidad Developers.
 
 - [03 - Splash](https://github.com/fabianmelomaciel/REACT/blob/main/03-%20Splash/documento.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q04LT28)
+
 
 
 
